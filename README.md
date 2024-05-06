@@ -1,2 +1,2 @@
-Backend echo con laravel
-Front echo con react (carpeta cliente)
+Backend hecho con laravel
+Front hecho con react (carpeta cliente)
